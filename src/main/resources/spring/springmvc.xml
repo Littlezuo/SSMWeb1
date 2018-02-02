@@ -58,7 +58,7 @@
 	</bean>
 	
 	<!-- 注册属性编辑器 -->
-	<bean id="customPropertyEditor" class="cn.itcast.ssm.controller.propertyeditor.CustomPropertyEditor"></bean>
+	<!--<bean id="customPropertyEditor" class="cn.itcast.ssm.controller.propertyeditor.CustomPropertyEditor"></bean>-->
 	
 	<!-- 转换器 -->
     <bean id="conversionService"
